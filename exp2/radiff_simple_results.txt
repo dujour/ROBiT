@@ -1,0 +1,60 @@
+Comparando p2_all e p2_base:
+similarity: 0.938
+distance: 1004
+
+Comparando p2_all e p2_def:
+similarity: 0.975
+distance: 409
+
+Comparando p2_all e p2_if:
+similarity: 0.976
+distance: 390
+
+Comparando p2_all e p2_junk:
+similarity: 0.939
+distance: 984
+
+Comparando p2_all e p2_while:
+similarity: 0.948
+distance: 845
+
+Comparando p2_base e p2_def:
+similarity: 0.939
+distance: 982
+
+Comparando p2_base e p2_if:
+similarity: 0.939
+distance: 989
+
+Comparando p2_base e p2_junk:
+similarity: 0.992
+distance: 122
+
+Comparando p2_base e p2_while:
+similarity: 0.968
+distance: 514
+
+Comparando p2_def e p2_if:
+similarity: 0.986
+distance: 230
+
+Comparando p2_def e p2_junk:
+similarity: 0.938
+distance: 997
+
+Comparando p2_def e p2_while:
+similarity: 0.956
+distance: 713
+
+Comparando p2_if e p2_junk:
+similarity: 0.938
+distance: 1006
+
+Comparando p2_if e p2_while:
+similarity: 0.956
+distance: 716
+
+Comparando p2_junk e p2_while:
+similarity: 0.966
+distance: 554
+
